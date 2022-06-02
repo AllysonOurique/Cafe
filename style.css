@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{ 
+    font: 100%;
+    background: linear-gradient(50.15deg,  #834f23, #b88b5c, #e8cb9a )
+    }
+
+.a{
+    display: flex;
+    flex-direction: row; 
+    align-items: center;
+    justify-content: space-around;
+    padding: 24px;
+
+
+}
+.b{
+     width: 80px;
+     height: 80px;
+
+}
+
+.c{
+    display: flex ;
+    gap: 32px;
+}
+.d{
+    font-family: 'Sarala', sans-serif;
+    color: #fff2e7;
+}
+.e{
+    font-family: 'Sarala', sans-serif;
+    color: #fff2e7;
+}
+.f{
+    font-family: 'Sarala', sans-serif;
+    color: #fff2e7;
+}
+
+.g{
+   border-top: 0.4px solid #fff2e7;
+   margin-bottom: 48px;
+    
+}
+ .h{
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   padding-left: 25px;
+   justify-content: space-around;
+   
+ }
+.i{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+ .j{
+  font-size: 64px;
+  font-weight: 400;
+    font-family: 'Righteous', cursive;
+    color:#fff2e7
+}
+.k{
+    font-family: 'Sarala', sans-serif;
+    color: #ecd6c4;
+    font-size: 24px;
+}
+
+.l{
+    background-color: #ecd6c4;
+    width: 185px;
+    height: 67px;
+    border: none;
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    font-family: 'Sarala', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    color: #2f2325;
+    
+}
+.l:hover{
+    background-color: rgba(236, 214, 196, 0.53);
+}
+.m{
+    height: 430px;
+}
+.n{
+    margin-top:48px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:24px
+}
+.o{
+    border-top: 00.4px solid #fff2e7;
+    font-family: 'Sarala', sans-serif;
+    color: #ecd6c4;
+}
+.p{
+    font-family: 'Sarala', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    color: #ecd6c4;;
+}
+.q{
+    font-family: 'Sarala', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    color: #ecd6c4;
+}
+.r{ font-family: 'Sarala', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    color:#ecd6c4;
+}
+.s{
+    padding: 32px;
+    border-top: 00.4px solid #fff2e7;
+   
+
+}
+.p{
+    height: 48px;
+    display: block;
+    margin: 0 auto;
+}
+
+@media screen and (max-width:600px){
+     .m{
+         width: 100px;
+         height: 100px;
+  
+    }
+ 
+}
+@media screen and (max-width:600px){
+   .p{
+       padding-left: 20px;
+   }
+
+}
+@media screen and (max-width:600px){
+    .q{
+        padding-left: 20px;
+    }
+ 
+ }
+ @media screen and (max-width:600px){
+    .r{
+        padding-left: 20px;
+    }
+ 
+ }
+ @media screen and (max-width:600px){
+    .c{
+        gap: 15px;
+        flex-direction: column;}
+        
+ 
+ }
+ 
+ 
+
+
+
+
+
+ 
